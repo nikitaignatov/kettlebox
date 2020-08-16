@@ -27,8 +27,9 @@ References to the material that has been very usefull
 ### Talks and Lectures
 - [1D Convolutional Neural Networks for Time Series Modeling - Nathan Janos, Jeff Roach](https://www.youtube.com/watch?v=nMkqWxMjWzg) 
 - [Who's singing? Automatic bird sound recognition with machine learning - Dan Stowell](https://www.youtube.com/watch?v=pzmdOETnhI0) 
+- [Activity Recognition with Wearable Accelerometers Using Deep Convolutional Neural Network and the Effect of Sensor Placement 
+- Jeremy Kulchyk, Ali Etemad](https://www.youtube.com/watch?v=4nD1vz363ks) - Shows the importance of the sensor placement.
 - [Audio Classification with Machine Learning (EuroPython 2019)](https://www.youtube.com/watch?v=uCGROOUO_wY)
 - [Convolution in the time domain - Mike X Cohen](https://www.youtube.com/watch?v=HSMwxBg7iq4) 
 - [Convolution in the frequency domain - Mike X Cohen](https://www.youtube.com/watch?v=4TTpwIZrUAo)
 - [How to inspect time-frequency results - Mike X Cohen](https://www.youtube.com/watch?v=48qi0exuWRI)
-- [Activity Recognition with Wearable Accelerometers Using Deep Convolutional Neural Network and the Effect of Sensor Placement - Jeremy Kulchyk, Ali Etemad](https://www.youtube.com/watch?v=4nD1vz363ks)
