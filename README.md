@@ -24,6 +24,7 @@ References to the material that has been very usefull
 - [Vibration Analysis: FFT, PSD, and Spectrogram Basics](https://blog.endaq.com/vibration-analysis-fft-psd-and-spectrogram)
 - [SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator](https://dl.acm.org/doi/pdf/10.1145/3300061.3300117)
 - [Classifying physical activity from smartphone data](https://blogs.rstudio.com/ai/posts/2018-07-17-activity-detection/)
+- [Computer science, meet exercise: How I built a push-up pedometer at a three day hackathon](https://medium.com/@lucasmcgartland/computer-science-meet-exercise-how-i-built-a-push-up-pedometer-at-a-three-day-hackathon-ffed78eef53e)
 
 ### Talks and Lectures
 - [1D Convolutional Neural Networks for Time Series Modeling - Nathan Janos, Jeff Roach](https://www.youtube.com/watch?v=nMkqWxMjWzg) 
