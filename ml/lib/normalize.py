@@ -8,6 +8,9 @@ def acc_scalar2(df):
     df['Gxs'] = (df['Gx'].apply(lambda x: (x+500.0)/1000.0))
     df['Gys'] = (df['Gy'].apply(lambda x: (x+500.0)/1000.0))
     df['Gzs'] = (df['Gz'].apply(lambda x: (x+500.0)/1000.0))
+    df['Axd'] = df['Axs'].diff()
+    df['Ayd'] = df['Ays'].diff()
+    df['Azd'] = df['Azs'].diff()
 
 
 def acc_scalar(df):
